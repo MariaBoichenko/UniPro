@@ -4,12 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/* Алгоритм Евкліда
-* Знаходження найбільшого спільного дільника двох чисел m і n
-*
-* Бойченко Марія, група КН-24
-* */
-
 public class Main {
 
     public static void main(String[] args) throws IOException {
